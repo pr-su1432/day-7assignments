@@ -10,8 +10,8 @@ then
 
 		if [ $c -eq 0 ]
 		then
-			prime=$i
-			a[$i]=$prime
+			fac=$i
+			a[$i]=$fac
 		fi
 	done
 
